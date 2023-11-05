@@ -1,10 +1,6 @@
 {
-	"pack": {
-		"pack_format": 15,
-        "supported_formats": [
-            15,
-            18
-        ],
-		"description": "Adds stonecutter recipes for stripped logs"
-	}
+    "pack": {
+        "pack_format": 12,
+        "description": "Adds stonecutter recipes for stripped logs"
+    }
 }
