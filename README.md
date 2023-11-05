@@ -14,6 +14,7 @@ Just to be specific, the datapack supports these wood types:
 - Warped
 - Cherry (1.20)
 - Bamboo (1.20)
+
 ...which work for both their log/stem and wood/hyphae variants.
 
 That's all. Enjoy easier stripping, and being able to undo a stripping mistake!
